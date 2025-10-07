@@ -9,7 +9,7 @@
                   if (themeCookie) {
                     const theme = themeCookie.split('=')[1];
                     const validThemes = [
-                      'WXP-Neutral',
+                      'Faw-Neutral',
                       'modernTech',
                       'brutalistLite',
                       'paperDay',
@@ -18,7 +18,7 @@
                       'gameBoyDMG',
                       'pumpkinSpice',
                       'Yasss',
-                      'WXP-No'
+                      'Faw-No'
                     ];
                     
                     if (validThemes.includes(theme)) {
